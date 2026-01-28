@@ -37,6 +37,19 @@
 		icon: 'ArrowsAltOutlined',
 	},
 
+	{
+		path: '/guess-game',
+		name: 'Game Đoán Số',
+		component: '@/pages/guess-game',
+	},
+
+	{
+		path: '/todo',
+		name: 'Todo List',
+		component: '@/pages/todo',
+	},
+
+
 	// DANH MUC HE THONG
 	// {
 	// 	name: 'DanhMuc',
